@@ -1,0 +1,17 @@
+GameEntity : "{EC0071079B219026}Prefabs/Characters/Core/Headgear_Helmet_Base.et" {
+ ID "50D4E2187B1C4408"
+ components {
+  SCR_ArmorDamageManagerComponent "{5E208A6BCC801EAE}" {
+   "Additional hit zones" {
+    SCR_ArmorHitZone helmet {
+     m_aProtectedDamageTypes {
+      3 4 5 2
+     }
+     m_eProtection CLASS_1
+     m_bBluntDamageEnabled 1
+     m_fBluntDamageThreshold 16
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,8 @@
+GameProject {
+ ID "BluntDamage"
+ GUID "60ED1549B878CB90"
+ TITLE "BluntDamage"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

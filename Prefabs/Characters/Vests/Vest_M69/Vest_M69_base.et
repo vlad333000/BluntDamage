@@ -1,0 +1,15 @@
+GenericEntity : "{AA074754692261B1}Prefabs/Characters/Core/VestArmored_Base.et" {
+ ID "50D8C49B3558F152"
+ components {
+  InventoryItemComponent "{5B10DCF8B39CF38D}" {
+   Attributes SCR_ItemAttributeCollection "{5B10DCF8B39CF275}" {
+    CustomAttributes {
+     SCR_ArmoredClothItemData "{5D74F1F70F50D332}" {
+      m_bBluntDamageEnabled 1
+      m_fBluntDamageThreshold 16
+     }
+    }
+   }
+  }
+ }
+}
